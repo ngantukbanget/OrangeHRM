@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Logging into the Application and browsing back using Browser back button</description>
+   <name>TC_LF_007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30d571d3-c025-4dcc-b669-25190a77f9e6</testCaseGuid>
+</TestCaseEntity>

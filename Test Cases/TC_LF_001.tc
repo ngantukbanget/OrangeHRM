@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate logging into the Application using valid credentials</description>
+   <name>TC_LF_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f59449a8-a8d8-40de-8443-26799e4b4257</testCaseGuid>
+</TestCaseEntity>
