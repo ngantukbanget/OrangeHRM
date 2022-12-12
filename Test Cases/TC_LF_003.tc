@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate logging into the Application using invalid username and valid Password</description>
+   <name>TC_LF_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ea79ee9-5c21-44ba-8e02-18af967318bd</testCaseGuid>
+</TestCaseEntity>

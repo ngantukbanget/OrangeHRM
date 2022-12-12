@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate 'Forgotten Password' link is available in the Login page and is working</description>
+   <name>TC_LF_006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0675fa3c-30e4-4800-8e2b-53f55f83b3ce</testCaseGuid>
+</TestCaseEntity>
